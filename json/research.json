@@ -3,7 +3,7 @@
     "key": "research-cpv",
     "name": "CP violation",
     "description": "CP symmetry is broken!",
-    "cost_increase": 1.8,
+    "cost_increase": 3.0,
     "image": "assets/icons/png/CPV.png",
     "info": "html/CPV.html",
     "state": {
@@ -16,13 +16,13 @@
     "key": "research-jpsi",
     "name": "J/ψ",
     "description": "The J/ψ meson consists of a c and an anti-c quark.",
-    "cost_increase": 1.7,
+    "cost_increase": 1,
     "image": "assets/icons/png/Jpsi.png",
     "info": "html/Jpsi.html",
     "state": {
       "reputation": 6e0,
       "cost": 4e2,
-      "info_levels": [ 1, 5 ]
+      "info_levels": [ 100, 50000 ]
     }
   },
   {
@@ -74,7 +74,7 @@
     "state": {
       "reputation": 5.4e3,
       "cost": 3.2e7,
-      "info_levels": [ 1 ]
+      "info_levels": [ 100000000]
     }
   },
   {
