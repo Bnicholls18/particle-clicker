@@ -34,7 +34,7 @@
     "info": "html/tau.html",
     "state": {
       "reputation": 3.3e1,
-      "cost": 1e4,
+      "cost": 100000000,
       "info_levels": [ 1, 5 ]
     }
   },
@@ -61,7 +61,7 @@
     "state": {
       "reputation": 1e3,
       "cost": 3e6,
-      "info_levels": [ 1 ]
+      "info_levels": [ 1000 ]
     }
   },
   {
@@ -87,7 +87,7 @@
     "state": {
       "reputation": 3e4,
       "cost": 1.28e8,
-      "info_levels": [ 1 ]
+      "info_levels": [ 1000 ]
     }
   },
   {
